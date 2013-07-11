@@ -28,7 +28,7 @@ var rest             = require('restler');
 
 var HTMLFILE_DEFAULT   = "index.html";
 var CHECKSFILE_DEFAULT = "checks.json";
-var URL_DEFAULT        = "http://http://fast-reaches-7692.herokuapp.com//";
+var URL_DEFAULT        = "http://fast-reaches-7692.herokuapp.com//";
 
 /////////////////////////////////////////////////////////////////////////////
 
